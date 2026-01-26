@@ -125,6 +125,22 @@ Algunas unidades incluyen bloques de código interactivos, como esta consulta SP
 
 *************************************************************************************************************>
 
+## INFORMACIÓN INICIAL
+
+<a id="informacion-inicial"></a>
+
+**05/01/2026**
+
+**Unidad didáctica 6**
+
+### Título de la unidad
+
+DCAT-AP y la Norma Técnica de Interoperabilidad de Reutilización de Recursos de Información (NTI-RISP)
+
+### Descripción de la unidad
+
+En esta unidad se presentan los conceptos fundamentales sobre DCAT-AP (Data Catalog Application Profile) y la Norma Técnica de Interoperabilidad de Reutilización de Recursos de Información (NTI-RISP), marcos esenciales para la interoperabilidad semántica en Europa y España. Se exploran los cuatro niveles de interoperabilidad en administraciones públicas, la importancia de los estándares y vocabularios controlados para describir catálogos de datos abiertos, y cómo estas normativas facilitan el intercambio, la búsqueda y la reutilización de información pública entre organizaciones. Finalmente, se detallan los requisitos técnicos, metadatos obligatorios y esquemas de identificación de recursos necesarios para implementar catálogos conformes a estas especificaciones internacionales y nacionales.
+
 ## OBJETIVOS DIDÁCTICOS
 
 {{|>}}
