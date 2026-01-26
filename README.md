@@ -48,9 +48,9 @@ Los materiales están disponibles en múltiples formatos:
 | Formato | Descripción | Enlace |
 |---------|-------------|--------|
 | **Online** | Curso interactivo | [Ver en LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-06/refs/heads/main/CURSO.md) |
-| **PDF** | Documentación completa | [Descargar](https://github.com/datosgobes/unidad-formativa-06/releases/latest) |
-| **SCORM 2004** | Para plataformas LMS | [Descargar](https://github.com/datosgobes/unidad-formativa-06/releases/latest) |
-| **IMS** | *Common Cartridge* | [Descargar](https://github.com/datosgobes/unidad-formativa-06/releases/latest) |
+| **PDF** | Documentación completa | [Descargar](https://github.com/datosgobes/unidad-formativa-06/releases/download/latest/documentation-unidad-formativa-06.pdf) |
+| **SCORM 2004** | Para plataformas LMS | [Descargar](https://github.com/datosgobes/unidad-formativa-06/releases/download/latest/scorm-unidad-formativa-06.zip) |
+| **IMS** | *Common Cartridge* | [Descargar](https://github.com/datosgobes/unidad-formativa-06/releases/download/latest/ims-unidad-formativa-06.zip) |
 
 ## Uso y desarrollo
 
