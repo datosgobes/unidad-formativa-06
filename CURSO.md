@@ -1,5 +1,5 @@
 <!--
-module_id: 06_dcat-ap_nti-risp
+module_id: module_id: unidad-formativa-06
 author: Equipo gestor de la plataforma datos.gob.es
 email: contacto@datos.gob.es
 date: 26/01/2026
@@ -86,7 +86,7 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
   <div style="padding:0 1rem 0 1rem;">
     <p style="margin:0.25rem 0 0.5rem 0;">
       Este curso está diseñado en <a href="https://liascript.github.io/" target="_blank" rel="noopener">LiaScript</a>. Para disfrutarlo con todas sus funcionalidades, accede a 
-      <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/unidades/06.md" target="_blank" rel="noopener">este enlace</a>.
+      <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-06/refs/heads/main/CURSO.md" target="_blank" rel="noopener">este enlace</a>.
     </p>
     <p style="margin:0;">
       Para conocer más sobre el formato Markdown utilizado por LiaScript, consulta la <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md" target="_blank" rel="noopener">documentación oficial</a>.
@@ -106,7 +106,7 @@ Puedes navegar el curso a través del índice de la parte izquierda o usando las
 Al finalizar cada sección, tendrás la oportunidad de res
 nder preguntas para comprobar tu aprendizaje. Estas actividades solo están disponibles en la versión LiaScript, no en Markdown estándar.
 
-??[Cuestionario](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/materiales-formativos/main/unidades/06.md#15)
+??[Cuestionario](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-06/refs/heads/main/CURSO.md#15)
 
   {{3}}
 Existe la opción de seleccionar otro idioma para el curso usando la traducción -si existe aparecen listados- o seleccionando el servicio de traducción automática con un solo clic. Ten presente que la traducción automática puede contener errores o interpretaciones incorrectas de algunos conceptos.
@@ -116,14 +116,14 @@ Existe la opción de seleccionar otro idioma para el curso usando la traducción
   {{4}}
 Algunas unidades incluyen bloques de código interactivos, como esta consulta SPARQL al [endpoint de datos.gob.es](https://datos.gob.es/sparql):
 
-??[Ejemplo de consulta SPARQL interactiva](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/materiales-formativos/main/unidades/06.md#58)
+??[Ejemplo de consulta SPARQL interactiva](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-06/refs/heads/main/CURSO.md#58)
 
   {{5}}
   El curso incluye secciones con narración de audio. Puedes activar o desactivar la narración utilizando el botón situado en la parte superior de cada página.
 
 ![Ejemplo de narración de una página](https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/media/tutorial_dge_audio.png)
 
-*************************************************************************************************************
+*************************************************************************************************************>
 
 ## OBJETIVOS DIDÁCTICOS
 
