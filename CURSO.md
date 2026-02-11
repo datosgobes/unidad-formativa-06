@@ -84,53 +84,68 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 {{|>}}
 *************************************************************************************************************
 
-<div style="background:#fff4e4; border-left:4px solid rgb(var(--lia-warning)); padding:0; border-radius:8px; overflow:hidden;">
-  <div style="background:#fdf2e4; color:rgb(var(--lia-warning)); padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    <i class="icon icon-warning" style="font-size:0.9em;"></i> Aviso
+<div style="background:#fdf8ec; border-left:4px solid #ff9800; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
+  <div style="background:#fdf2e4; color:#ff9800; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+    ⚠️ Aviso
   </div>
   <div style="padding:0 1rem 0 1rem;">
     <p style="margin:0.25rem 0 0.5rem 0;">
-      Este curso está diseñado en <a href="https://liascript.github.io/" target="_blank" rel="noopener">LiaScript</a>. Para disfrutarlo con todas sus funcionalidades, accede a 
-      <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-06/refs/heads/main/CURSO.md" target="_blank" rel="noopener">este enlace</a>.
-    </p>
-    <p style="margin:0;">
+      Este curso está diseñado en <a href="https://liascript.github.io/" target="_blank" rel="noopener">LiaScript</a>. Para disfrutarlo con todas sus funcionalidades, accede a <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md" target="_blank" rel="noopener">este enlace</a>.
+      </p>
+      <p style="margin:0;">
       Para conocer más sobre el formato Markdown utilizado por LiaScript, consulta la <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md" target="_blank" rel="noopener">documentación oficial</a>.
     </p>
   </div>
 </div>
 
-<br>
-
-
-  {{1}}
+{{1}}
 Puedes navegar el curso a través del índice de la parte izquierda o usando las flechas de navegación del teclado o de la parte inferior de la web.
 
 ![Navegación del curso](https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/media/tutorial_dge_sections.png)
 
-  {{2}}
-Al finalizar cada sección, tendrás la oportunidad de res
-nder preguntas para comprobar tu aprendizaje. Estas actividades solo están disponibles en la versión LiaScript, no en Markdown estándar.
+{{2}}
+Al finalizar cada sección, tendrás la oportunidad de responder preguntas para comprobar tu aprendizaje. Estas actividades solo están disponibles en la versión LiaScript, no en Markdown estándar.
 
-??[Cuestionario](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-06/refs/heads/main/CURSO.md#15)
+<div style="background:#f8fafc; border:2px solid #154481; border-radius:12px; padding:1.5rem; text-align:center; margin:1rem 0;">
+  <div style="font-size:2em; margin-bottom:0.5rem;">📋</div>
+  <h4 style="margin:0 0 0.5rem 0;">Cuestionario Final</h4>
+  <p style="margin:0 0 1rem 0; color:#666;">Evalúa tus conocimientos sobre datos abiertos</p>
+  <a href="#cuestionario-final" 
+     style="background:#154481; color:white; padding:0.5rem 1.5rem; border-radius:6px; text-decoration:none; font-weight:600; display:inline-block; transition:all 0.3s ease;"
+     onmouseover="this.style.background='#0d2d5a'; this.style.transform='scale(1.05)';"
+     onmouseout="this.style.background='#154481'; this.style.transform='scale(1)';">
+    ▶️ Ir al cuestionario
+  </a>
+</div>
 
-  {{3}}
+{{3}}
+
+Recursos disponibles:
+
+- <span class="res res-fuente">📖 <strong>Fuente</strong></span>: origen de la definición o de la información que respalda el concepto o información que se está presentando.
+- <span class="res res-ejemplo">💡 <strong>Ejemplo</strong></span>: casos concretos que facilitan la comprensión.
+- <span class="res res-aviso">⚠️ <strong>Aviso</strong></span>: consejo o dato práctico para entender lo presentado.
+- <span class="res res-mas-info">ℹ️ <strong>Más información</strong></span>: material de relevancia que complementa lo explicado.
+- <span class="res res-saber">🔍 <strong>Saber más</strong></span>: referencias y documentos adicionales.
+- <span class="res res-caso">🧪 <strong>Caso de estudio</strong></span>: casos reales para afianzar conocimientos.
+- <span class="res res-ejercicio">✏️ <strong>Ejercicio</strong></span>: actividades para aplicar los conocimientos adquiridos.
+
+{{4}}
 Existe la opción de seleccionar otro idioma para el curso usando la traducción -si existe aparecen listados- o seleccionando el servicio de traducción automática con un solo clic. Ten presente que la traducción automática puede contener errores o interpretaciones incorrectas de algunos conceptos.
 
 ![Botón para traducir el contenido](https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/media/tutorial_dge_translate.png)
 
-  {{4}}
-Algunas unidades incluyen bloques de código interactivos, como esta consulta SPARQL al [endpoint de datos.gob.es](https://datos.gob.es/sparql):
-
-??[Ejemplo de consulta SPARQL interactiva](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-06/refs/heads/main/CURSO.md#58)
-
-  {{5}}
-  El curso incluye secciones con narración de audio. Puedes activar o desactivar la narración utilizando el botón situado en la parte superior de cada página.
+{{5}}
+El curso incluye secciones con narración de audio. Puedes activar o desactivar la narración utilizando el botón situado en la parte superior de cada página.
 
 ![Ejemplo de narración de una página](https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/media/tutorial_dge_audio.png)
 
-*************************************************************************************************************>
+*************************************************************************************************************
 
 ## INFORMACIÓN INICIAL
+
+{{|>}}
+*************************************************************************************************************
 
 <a id="informacion-inicial"></a>
 
@@ -148,6 +163,7 @@ En esta unidad se presentan los conceptos fundamentales sobre DCAT-AP (Data Cata
 
 !?[Vídeo descriptivo de la unidad](https://www.youtube.com/watch?v=UM9aGVdHuyU)
 
+*************************************************************************************************************
 
 ## OBJETIVOS DIDÁCTICOS
 
@@ -156,40 +172,62 @@ En esta unidad se presentan los conceptos fundamentales sobre DCAT-AP (Data Cata
 
 Comenzamos presentando los **Objetivos didácticos** de esta Unidad:
 
-> - Comprender qué es DCAT-AP y por qué es necesario para la estrategia europea de datos abiertos.
-> - Identificar NTI-RISP como parte del ENI y su relación con el DCAT-AP.
-> - Conocer las pautas que dicta la NTI-RISP para una iniciativa de reutilización de la información.
-> - Ser capaz de emplear las directrices marcadas por NTI-RISP para diseñar el esquema de URIs.
-> - Ser capaz de describir un catálogo, un conjunto de datos y una distribución de acuerdo a como dicta la NTI-RSIP.
+> - **Comprender qué es DCAT-AP** y por qué es necesario para la estrategia europea de datos abiertos.
+> - **Identificar NTI-RISP** como parte del ENI y su relación con el DCAT-AP.
+> - Conocer las **pautas que dicta la NTI-RISP** para una iniciativa de reutilización de la información.
+> - Ser capaz de emplear las **directrices marcadas por NTI-RISP para diseñar el esquema de URIs.**
+> - Ser capaz de **describir un catálogo, un conjunto de datos y una distribución** de acuerdo a como dicta la NTI-RSIP.
+
 *************************************************************************************************************
 
-## REQUISITOS PREVIOS
+## CONTENIDOS
 
-Para poder asimilar los conceptos que vamos a desarrollar en la unidad, deberías contar con:
+{{|>}}
+*************************************************************************************************************
+
+<div style="margin-left: 3rem;">
+
+{{1}} **[INTRODUCCIÓN](#introducción)**  
+
+{{2}} **[DCAT-AP](#dcat-ap)** 
+
+{{3}} **[NTI-RISP](#nti-risp)**  
+
+{{4}} **[CUESTIONARIO FINAL](#cuestionario-final)**  
+
+{{5}} **[RESUMEN](#resumen)**
+
+</div>
+
+*************************************************************************************************************
+
+## PÚBLICO OBJETIVO
+
+{{|>}}
+*************************************************************************************************************
+
+Esta unidad formativa está dirigida a:
+
+> - [x] Publicadores de datos abiertos y reutilizadores de los mismos.
+
+*************************************************************************************************************
+
+## CONOCIMIENTOS PREVIOS NECESARIOS
+
+{{|>}}
+*************************************************************************************************************
+
+Para poder asimilar los conceptos que vamos a desarrollar en la unidad:
 
 > - [x] Conocimientos técnicos básicos de la utilización o conexión de datos de varias fuentes.
 > - [x] Experiencia cualitativa con catálogos de datos.
 > - [x] Conocimiento del intercambio de información entre organizaciones.
 > - [x] Conocimientos básicos de XML y RDF.
 
-## CONTENIDOS
+*************************************************************************************************************
 
-**Resumimos los aspectos a tratar en los apartados de la Unidad:**
-
->**[1. INTRODUCCIÓN](#5)**  
->
->> Nos introduce en los conceptos y necesidad de interoperabilidad y el marco europeo de iniciativas relacionadas con el mismo.
-
-
->**[2. DCAT-AP](#13)**
->
->> Conocemos este perfil de aplicación o especificación para la descripción de catálogos de conjuntos de datos del sector público en Europa.
-
->**[3. NTI-RISP](#38)**
->
->>  Se profundiza en la Norma técnica de interoperabilidad, publicada en febrero de 2013, sus objetivos, preceptos y cómo se desarrolla.
-
-## 1. INTRODUCCIÓN
+<!-- id="introduccion" -->
+## INTRODUCCIÓN
 
 ### Interoperabilidad
 
@@ -378,7 +416,9 @@ En este apartado hemos cubierto los fundamentos de la interoperabilidad y DCAT:
 
 *************************************************************************************************************
 
-## 2. DCAT-AP
+<!-- id="dcat-ap" -->
+
+## DCAT-AP
 
 ### Introducción
 
@@ -736,7 +776,8 @@ En este apartado hemos explorado DCAT-AP:
 
 *************************************************************************************************************
 
-## 3. NTI-RISP
+<!-- id="nti-risp" -->
+## NTI-RISP
 
 > **Definición: NTI-RISP**
 >
@@ -996,18 +1037,37 @@ En este apartado hemos estudiado la implementación nacional española:
 > - [Ley 37/2007 sobre reutilización de información del sector público](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)
 > - [Resolución de 19 de febrero de 2013, de la Secretaría de Estado de Administraciones Públicas, por la que se aprueba la Norma Técnica de Interoperabilidad de Reutilización de recursos de la información](https://www.boe.es/buscar/act.php?id=BOE-A-2013-2380)
 
-### Cuestionario
+*************************************************************************************************************
 
-> **🎯 Evaluación de conocimientos: NTI-RISP**
->
-> Pon a prueba tus conocimientos sobre NTI-RISP:
->
-> - **4-5 respuestas correctas:** ¡Excelente! Has comprendido muy bien los conceptos del apartado.
-> - **3 respuestas correctas:** Buen trabajo. Revisa los conceptos donde tuviste dificultades.
-> - **1-2 respuestas correctas:** Te recomendamos repasar este capítulo antes de continuar.
+<!-- id="cuestionario-final" -->
+## CUESTIONARIO FINAL
 
 {{|>}}
 *************************************************************************************************************
+
+<div style="background:#ffffff; border:2px solid #154481; border-radius:16px; box-shadow:0 4px 12px rgba(21,68,129,0.2); margin:2rem 0; overflow:hidden;">
+  <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:2rem; text-align:center;">
+    <div style="font-size:3em; margin-bottom:0.5rem;">📋</div>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; text-transform:uppercase; letter-spacing:1px;">Evaluación de conocimientos</h3>
+    <p style="margin:0.75rem 0 0 0; font-size:1.1em; opacity:0.95;">NTI-RISP</p>
+  </div>
+  <div style="padding:1.5rem 2rem; background:linear-gradient(to bottom, #f0f7ff 0%, #ffffff 100%);">
+    <p style="margin:0 0 1rem 0; font-size:1.05em; color:#333; text-align:center;">
+      <strong>Pon a prueba tus conocimientos sobre NTI-RISP:</strong>
+    </p>
+    <ul style="list-style:none; padding:0; margin:0;">
+      <li style="padding:0.75rem 1rem; margin:0.5rem 0; background:#d1fae5; border-left:4px solid #10b981; border-radius:0 8px 8px 0;">
+        <strong style="color:#065f46;">4-5 respuestas correctas:</strong> <span style="color:#047857;">¡Excelente! Has comprendido muy bien los conceptos del apartado.</span>
+      </li>
+      <li style="padding:0.75rem 1rem; margin:0.5rem 0; background:#fef3c7; border-left:4px solid #f59e0b; border-radius:0 8px 8px 0;">
+        <strong style="color:#92400e;">3 respuestas correctas:</strong> <span style="color:#b45309;">Buen trabajo. Revisa los conceptos donde tuviste dificultades.</span>
+      </li>
+      <li style="padding:0.75rem 1rem; margin:0.5rem 0; background:#fee2e2; border-left:4px solid #ef4444; border-radius:0 8px 8px 0;">
+        <strong style="color:#991b1b;">1-2 respuestas correctas:</strong> <span style="color:#dc2626;">Te recomendamos repasar este capítulo antes de continuar.</span>
+      </li>
+    </ul>
+  </div>
+</div>
 
 **¿En qué año fue publicada la Norma Técnica de Interoperabilidad de Reutilización de Recursos de Información (NTI-RISP)?**
 
@@ -1075,7 +1135,11 @@ En este apartado hemos estudiado la implementación nacional española:
 
 *************************************************************************************************************
 
+<!-- id="resumen" -->
 ## RESUMEN
+
+{{|>}}
+*************************************************************************************************************
 
 Hemos llegado al final de la unidad, y ahora vamos a repasar los puntos principales tratados:
 
@@ -1111,3 +1175,5 @@ Hemos llegado al final de la unidad, y ahora vamos a repasar los puntos principa
 > - [Portal datos.gob.es](https://datos.gob.es)
 > - [Punto SPARQL datos.gob.es](https://datos.gob.es/sparql)
 ---
+
+*************************************************************************************************************
