@@ -197,7 +197,7 @@ Comenzamos presentando los **Objetivos didácticos** de esta Unidad:
 
 {{5}} **[RESUMEN](#resumen)**
 
-{{6}} **[SABER MÁS](#saber-mas)**
+{{6}} **[SABER MÁS](#contacto)**
 
 </div>
 
@@ -1180,7 +1180,7 @@ Hemos llegado al final de la unidad, y ahora vamos a repasar los puntos principa
 
 *************************************************************************************************************
 
-<!-- id="saber-mas" -->
+<!-- id="contacto" -->
 ## SABER MÁS
 
 {{|>}}
